@@ -46,5 +46,6 @@ Telegram services are deployed across multiple data centers worldwide. Each DC c
 
 ## Open questions
 
+
 1. How does the data flow look like in secret chats?
 3. How are conflicts handled when messages are edited simultaneously?
